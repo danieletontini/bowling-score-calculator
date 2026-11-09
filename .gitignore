@@ -1,0 +1,21 @@
+# File temporanei
+*.tmp
+*.log
+*.bak
+
+# File generati da Haskell
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
+dist-newstyle/
+.stack-work/
+
+# File temporanei di editor
+.vscode/
+.idea/
+.DS_Store
+
+# Eseguibili compilati
+*.exe
+*.out
